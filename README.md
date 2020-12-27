@@ -1,46 +1,120 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img 
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/793px-Tesla_Motors.svg.png"
+        width="120"
+        alt="Homepage screenshot"
+    >
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<h1 align="center">Tesla clone homepage 🏎</h1>
 
-### `yarn start`
+<h4 align="center">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[View demo](#-demonstration) · [Report bug](#-demonstration)
+    
+</h4>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h2> 📘 Index </h2> 
 
-### `yarn test`
+- [👨‍🏫 About](#-about)
+- [🚀 Technology](#-technology)
+  - [📚 Libraries](#-libraries)
+- [🎬 Demonstration](#-demonstration)
+- [☕ Prerequisites](#-prerequisites)
+- [🔧 Installing](#-installing)
+- [💿 Using](#-using)
+- [📮 Contributing](#-contributing)
+- [🤟 Collaborators](#-collaborators)
+  - [😎 Become a contributor](#-become-a-contributor)
+- [📜 License](#-license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 👨‍🏫 About 
 
-### `yarn build`
+Project developed from a video on the [Rocketseat YouTube channel. 💜](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] [Video: Homepage da Tesla com ReactJS | UI Clone #14](https://www.youtube.com/watch?v=Mf4Se4ZGcG8) 🎥
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Technology 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] [ReactJS](https://reactjs.org/)
+- [x] [Framer Motion](https://www.framer.com/motion/) 
 
-### `yarn eject`
+### 📚 Libraries 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [styled-components](https://styled-components.com/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎬 Demonstration
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Demonstration](./.github/demo.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ☕ Prerequisites
 
-## Learn More
+Before getting your hands dirty, make sure you meet the following requirements: 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [ ] Have a recent version of Node installed
+- [ ] Have a recent version of Yarn installed
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔧 Installing 
+
+To install, follow the steps:
+
+```bash
+## Installing dependencies
+
+yarn install 
+
+## or
+
+npm install
+```
+
+## 💿 Using
+
+To use, follow the steps:
+
+```bash
+## Running project
+
+yarn start 
+
+## or
+
+npm start
+```
+
+## 📮 Contributing 
+
+If this is your first contribution, [see the following tutorial.](https://github.com/firstcontributions/first-contributions)
+
+## 🤟 Collaborators 
+
+We thank the following developers who contributed:  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img 
+          src="https://avatars0.githubusercontent.com/u/66227219?s=460&u=c99b9c6d3539ff9de7823673c83df61b28f33cf4&v=4" 
+          width="100" 
+          alt="Leonardo Campello"
+        /> <br>
+        <sub>
+          <b>Leonardo Campello</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 😎 Become a contributor  
+
+Would you like to be part of this project? Click [HERE](https://github.com/firstcontributions/first-contributions) and read the instructions to contribute.
+
+## 📜 License
+
+Made in 2020. This project is under the [MIT license.](./LICENSE)
+
+<h2> Made with 💚 by Leonardo Campello </h2>
