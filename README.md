@@ -39,15 +39,22 @@ Project developed from a video on the [Rocketseat YouTube channel. 💜](https:/
 ## 🚀 Technology 
 
 - [x] [ReactJS](https://reactjs.org/)
-- [x] [Framer Motion](https://www.framer.com/motion/) 
+- [x] [TypeScript](https://www.typescriptlang.org/) 
 
 ### 📚 Libraries 
 
-- [styled-components](https://styled-components.com/)
+- [Styled-components](https://styled-components.com/)
+- [Framer Motion](https://www.framer.com/motion/) 
 
 ## 🎬 Demonstration
 
-![Demonstration](./.github/demo.png)
+<h1 align="center">
+  <img src="./.github/demo.png" width="600">
+</h1>
+
+<h1 align="center">
+  <img src="./.github/mobile.png" width="325">
+</h1>
 
 ## ☕ Prerequisites
 
