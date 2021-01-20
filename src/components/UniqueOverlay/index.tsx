@@ -1,14 +1,14 @@
-import React from 'react';
-import { useTransform } from 'framer-motion';
+import React from "react";
+import { useTransform } from "framer-motion";
 
-import useWrapperScroll from '../Model/useWrapperScroll';
+import useWrapperScroll from "../Model/useWrapperScroll";
 
-import { Container, Header, Logo, Burguer, Footer } from './styles';
+import { Container, Header, Logo, Burguer, Footer } from "./styles";
 
 const UniqueOverlay: React.FC = () => {
-  const { scrollYProgress } = useWrapperScroll()
+  const { scrollYProgress } = useWrapperScroll();
 
-  const opacity = useTransform(scrollYProgress, [0.9, 1], [0, 1])
+  const opacity = useTransform(scrollYProgress, [0.9, 1], [0, 1]);
 
   return (
     <Container>

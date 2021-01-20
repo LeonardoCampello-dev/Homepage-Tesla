@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
-import { ModelsWrapper, ModelSection } from '../Model';
-import DefaultOverlayContent from '../DefaultOverlayContent';
-import UniqueOverlay from '../UniqueOverlay';
+import { ModelsWrapper, ModelSection } from "../Model";
+import DefaultOverlayContent from "../DefaultOverlayContent";
+import UniqueOverlay from "../UniqueOverlay";
 
-import { Container, Spacer } from './styles';
+import { Container, Spacer } from "./styles";
 
 const Page: React.FC = () => {
   return (
@@ -12,14 +12,14 @@ const Page: React.FC = () => {
       <ModelsWrapper>
         <div>
           {[
-            'Model One',
-            'Model Two',
-            'Model Three',
-            'Model Four',
-            'Model Five',
-            'Model Six',
-            'Model Seven'
-          ].map(modelName => (
+            "Model One",
+            "Model Two",
+            "Model Three",
+            "Model Four",
+            "Model Five",
+            "Model Six",
+            "Model Seven",
+          ].map((modelName) => (
             <ModelSection
               key={modelName}
               className="colored"
